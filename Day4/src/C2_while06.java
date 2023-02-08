@@ -10,8 +10,6 @@ public class C2_while06 {
 		String level ="";
 		
 		for(int i=1;i<=3;i++) {
-			
-			
 			do {  //올바르지 않은 값을 입력받을 동안 반복
 				System.out.println("국어점수를 입력해주세요.");
 				kor_score=sc.nextInt();
